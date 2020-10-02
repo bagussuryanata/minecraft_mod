@@ -1,0 +1,642 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "judul":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "judul":"",
+      "image":"",
+      "link":""
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Batman",
+      "skin_url":"https://aliendro.id/wp-content/skin/batman.png",
+      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+    },
+    {
+      "id":2,
+      "nama_skin":"Captain Marvel",
+      "skin_url":"https://aliendro.id/wp-content/skin/cmarvel.png",
+      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+    },
+    {
+      "id":3,
+      "nama_skin":"Iron Man",
+      "skin_url":"https://aliendro.id/wp-content/skin/iron.png",
+      "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+    },
+
+    {
+      "id":4,
+      "nama_skin":"Spiderman",
+      "skin_url":"https://aliendro.id/wp-content/skin/spider.png",
+      "view_skin":"https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
+    },
+    {
+      "id":5,
+      "nama_skin":"Deadpool",
+      "skin_url":"https://aliendro.id/wp-content/skin/dead.png",
+      "view_skin":"https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
+    },
+    {
+      "id":6,
+      "nama_skin":"Captain America",
+      "skin_url":"https://aliendro.id/wp-content/skin/cap.png",
+      "view_skin":"https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
+    },
+    {
+      "id":7,
+      "nama_skin":"Wolverine",
+      "skin_url":"https://aliendro.id/wp-content/skin/xman.png",
+      "view_skin":"https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
+    },
+    {
+      "id":8,
+      "nama_skin":"The Hulk",
+      "skin_url":"https://aliendro.id/wp-content/skin/hulk.png",
+      "view_skin":"https://lh3.googleusercontent.com/zkEkVCgYXxLieG-H_5uzqiEFNz15H7d6kY_J_i6bZ9FC6DyBy-lZSVRmQQKFIq7WsMkHVxfZdECmJEi8FvheheM"
+    },
+    {
+      "id":9,
+      "nama_skin":"Thor",
+      "skin_url":"https://aliendro.id/wp-content/skin/thor.png",
+      "view_skin":"https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
+    },
+
+    {
+      "id":10,
+      "nama_skin":"Superman",
+      "skin_url":"https://aliendro.id/wp-content/skin/super.png",
+      "view_skin":"https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
+    },
+    {
+      "id":11,
+      "nama_skin":"One Pouch Man",
+      "skin_url":"https://aliendro.id/wp-content/skin/one.png",
+      "view_skin":"https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
+    },
+    {
+      "id":12,
+      "nama_skin":"Son Goku",
+      "skin_url":"https://aliendro.id/wp-content/skin/goku.png",
+      "view_skin":"https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
+    },
+    {
+      "id":13,
+      "nama_skin":"Among Us Yellow",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/01/yellow-among-us-15394750.png?v275",
+      "view_skin":"https://www.minecraftskins.com/uploads/preview-skins/2020/10/01/yellow-among-us-15394750.png?v275"
+    },
+    {
+      "id": 14,
+      "nama_skin":"Among Us Red",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/01/among-us-weekly---desc--15395405.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/red-among-us-15390145.png?v275"
+    },
+    {
+      "id": 15,
+      "nama_skin": "Among Us Blue",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/blue-among-us-15390290.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/blue-among-us-15390290.png?v275"
+    },
+    {
+      "id": 16,
+      "nama_skin": "Among Us Cyan",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/cyan-among-us-15390277.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/cyan-among-us-15390277.png?v275"
+    },
+    {
+      "id": 17,
+      "nama_skin": "Among Us Brown",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/brown-among-us-15390395.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/brown-among-us-15390395.png?v275"
+    },
+    {
+      "id": 18,
+      "nama_skin": "Among Us Black",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/black-among-us-15390364.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/black-among-us-15390364.png?v275"
+    },
+    {
+      "id": 19,
+      "nama_skin": "Among Us White",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/white-among-us-15390335.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/white-among-us-15390335.png?v275"
+    },
+    {
+      "id": 20,
+      "nama_skin": "Among Us Pink",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/pink-among-us-15390318.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/pink-among-us-15390318.png?v275"
+    },
+    {
+      "id": 21,
+      "nama_skin": "Among Us Purple",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/purple-among-us-15390308.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/purple-among-us-15390308.png?v275"
+    },
+    {
+      "id": 22,
+      "nama_skin": "Among Us Green",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/green-among-us-15390231.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/green-among-us-15390231.png?v275"
+    },
+    {
+      "id": 23,
+      "nama_skin": "Among Us Lime",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/lime-among-us-15390215.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/lime-among-us-15390215.png?v275"
+    },
+    {
+      "id": 24,
+      "nama_skin": "Among us Orange",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/orange-among-us-15390174.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/orange-among-us-15390174.png?v275"
+    },
+    {
+      "id": "25",
+      "nama_skin": "Naruto Shippunden",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/01/naruto-uzumaki-15394084.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/01/naruto-uzumaki-15394084.png?v275"
+    },
+    {
+      "id": "26",
+      "nama_skin": "Naruto Movie",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/01/naruto-uzumaki-15393220.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/01/naruto-uzumaki-15393220.png?v275"
+    },
+    {
+      "id": "27",
+      "nama_skin": "Obito Akatsuki",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/obito---tobi-15390176.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/obito---tobi-15390176.png?v275"
+    },
+    {
+      "id": "28",
+      "nama_skin": "Kakashi Hatake",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/29/kakashy-hakate-15383386.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/29/kakashy-hakate-15383386.png?v275"
+    },
+    {
+      "id": "29",
+      "nama_skin": "Kisame",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/29/kisame--not-slim--15384375.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/29/kisame--not-slim--15384375.png?v275"
+    },
+    {
+      "id": "30",
+      "nama_skin": "Itachi Akatsuki",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/28/itachi-uchiha-15375020.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/28/itachi-uchiha-15375020.png?v275"
+    },
+    {
+      "id": "31",
+      "nama_skin": "Naruto Kurama",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/28/naruto-fase-kurama-15374756.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/28/naruto-fase-kurama-15374756.png?v275"
+    },
+    {
+      "id": "32",
+      "nama_skin": "Rock Lee",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/27/rock-lee-15366259.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/27/rock-lee-15366259.png?v275"
+    },
+    {
+      "id": "33",
+      "nama_skin": "Hinata",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/26/hinata-hyuga-naruto-shippuden-15360647.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/26/hinata-hyuga-naruto-shippuden-15360647.png?v275"
+    },
+    {
+      "id": "34",
+      "nama_skin": "Kurenai",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/25/kurenai-yuhi-15355962.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/25/kurenai-yuhi-15355962.png?v275"
+    },
+    {
+      "id": "35",
+      "nama_skin": "Sakura Haruno",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/25/sakura-haruno-part-2--minecraft--15352669.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/25/sakura-haruno-part-2--minecraft--15352669.png?v275"
+    },
+    {
+      "id": "36",
+      "nama_skin": "Madara Uchiha",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/25/madara-15352176.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/25/madara-15352176.png?v275"
+    },
+    {
+      "id": "37",
+      "nama_skin": "Sasuke (Kids)",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/24/sasuke-uchiha-15347757.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/24/sasuke-uchiha-15347757.png?v275"
+    },
+    {
+      "id": "38",
+      "nama_skin": "Sasuke (Teen)",
+      "skin_url": "https://www.minecraftskins.com/skin/15340878/sasuke/",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/23/sasuke-15340878.png?v275"
+    },
+    {
+      "id": "39",
+      "nama_skin": "Sasuke Uchiha",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/23/sasuke-15340906.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/23/sasuke-15340906.png?v275"
+    },
+    {
+      "id": "40",
+      "nama_skin": "Boruto Uzumaki",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/22/boruto-with-jogan-unleashed-no-teen-boruto--15335582.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/22/boruto-with-jogan-unleashed-no-teen-boruto--15335582.png?v275"
+    },
+    {
+      "id": "41",
+      "nama_skin": "Orochimaru",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/17/orochimaru-15298028.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/17/orochimaru-15298028.png?v275"
+    },
+    {
+      "id": "42",
+      "nama_skin": "Sasori Akatsuki",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/20/sasori-de-la-arena-roja-15321439.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/20/sasori-de-la-arena-roja-15321439.png?v275"
+    },
+    {
+      "id": "43",
+      "nama_skin": "Zabuza Momochi",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/21/zabuza-detiled-15324266.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/21/zabuza-detiled-15324266.png?v275"
+    },
+    {
+      "id": "44",
+      "nama_skin": "Naruto Sage",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/21/naruto-sage-mode-derp-style-15322462.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/21/naruto-sage-mode-derp-style-15322462.png?v275"
+    },
+    {
+      "id": "45",
+      "nama_skin": "Tendo Pain",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/21/tendo-pain-15328452.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/21/tendo-pain-15328452.png?v275"
+    },
+    {
+      "id": "46",
+      "nama_skin": "Konan",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/21/konan-15328682.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/21/konan-15328682.png?v275"
+    },
+    {
+      "id": "47",
+      "nama_skin": "Naruto 6 Paths",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/22/6-paths-naruto-15335337.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/22/6-paths-naruto-15335337.png?v275"
+    },
+    {
+      "id": "48",
+      "nama_skin": "Sonic Speed O' Sound",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/18/speed-o--sound-sonic-15089255.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/18/speed-o--sound-sonic-15089255.png?v275"
+    },
+    {
+      "id": "49",
+      "nama_skin": "Genos",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/11/genos--simple-with-sleeveless-hoodie--15033903.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/11/genos--simple-with-sleeveless-hoodie--15033903.png?v275"
+    },
+    {
+      "id": "50",
+      "nama_skin": "Watchdog Man",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/09/watchdog-man-15013475.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/09/watchdog-man-15013475.png?v275"
+    },
+    {
+      "id": "51",
+      "nama_skin": "Mumen Rider",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/06/01/mumen-rider-14499788.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/06/01/mumen-rider-14499788.png?v275"
+    },
+    {
+      "id": "52",
+      "nama_skin": "Tatsumaki Tornado",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/05/26/tasumaki--terrible-tornado-14445869.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/05/26/tasumaki--terrible-tornado-14445869.png?v275"
+    },
+    {
+      "id": "53",
+      "nama_skin": "Saitama Oppai",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/05/08/oppai-14309399.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/05/08/oppai-14309399.png?v275"
+    },
+    {
+      "id": "54",
+      "nama_skin": "Garou Hero Hunter",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/04/14/garou---one-punch-man-14123445.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/04/14/garou---one-punch-man-14123445.png?v275"
+    },
+    {
+      "id": "55",
+      "nama_skin": "Garou Monster",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/02/29/monster-garou-fist-of-flowing-water-13903462.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/02/29/monster-garou-fist-of-flowing-water-13903462.png?v275"
+    },
+    {
+      "id": "56",
+      "nama_skin": "Saitama Oppai v2",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/02/18/saitama-oppai-shirt-13875445.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/02/18/saitama-oppai-shirt-13875445.png?v275"
+    },
+    {
+      "id": "57",
+      "nama_skin": "Genos Evil",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/04/08/evil-genos-2-0-14081299.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/04/08/evil-genos-2-0-14081299.png?v275"
+    },
+    {
+      "id": "58",
+      "nama_skin": "Fubuki",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/04/14/fubuki---one-punch-man-14123410.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/04/14/fubuki---one-punch-man-14123410.png?v275"
+    },
+    {
+      "id": "59",
+      "nama_skin": "Atomic Samurai",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/04/14/samurai-atomic---one-punch-man-14123435.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/04/14/samurai-atomic---one-punch-man-14123435.png?v275"
+    },
+    {
+      "id": "60",
+      "nama_skin": "Genos Cyborg",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/02/21/demon-cyborg-genos-13883221.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/02/21/demon-cyborg-genos-13883221.png?v275"
+    },
+    {
+      "id": "61",
+      "nama_skin": "Metal Bat",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2019/12/29/metal-bat-13742185.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2019/12/29/metal-bat-13742185.png?v275"
+    },
+    {
+      "id": "62",
+      "nama_skin": "Smile Man",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2019/07/20/smile-man-13214469.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2019/07/20/smile-man-13214469.png?v275"
+    },
+    {
+      "id": "63",
+      "nama_skin": "Metal Bat v1",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2019/06/29/metal-bat-13127325.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2019/06/29/metal-bat-13127325.png?v275"
+    },
+    {
+      "id": "64",
+      "nama_skin": "Silver Fang",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2018/12/28/silver-fang-12687591.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2018/12/28/silver-fang-12687591.png?v275"
+    },
+    {
+      "id": "65",
+      "nama_skin": "Fall Guys King",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/06/fall-guy-15222826.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/06/fall-guy-15222826.png?v275"
+    },
+    {
+      "id": "66",
+      "nama_skin": "Fall Guys Workout",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/05/fall-guy-workout-outfit-15218531.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/05/fall-guy-workout-outfit-15218531.png?v275"
+    },
+    {
+      "id": "67",
+      "nama_skin": "Fall Guys Penguin",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/03/fall-guy-pinguino-hecha-por--emiliano-15199535.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/03/fall-guy-pinguino-hecha-por--emiliano-15199535.png?v275"
+    },
+    {
+      "id": "68",
+      "nama_skin": "Fall Guys Bird",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/02/bird-fall-guy-15191483.png?v275,",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/02/bird-fall-guy-15191483.png?v275"
+    },
+    {
+      "id": "69",
+      "nama_skin": "Fall Guys Fish",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/29/fall-guys-fish-15166645.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/29/fall-guys-fish-15166645.png?v275"
+    },
+    {
+      "id": "70",
+      "nama_skin": "Fall Guys Chibi",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/18/fall-guy-15085501.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/18/fall-guy-15085501.png?v275"
+    },
+    {
+      "id": "71",
+      "nama_skin": "Fall Guys French Fries",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/17/french-fries-fall-guys-15078933.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/17/french-fries-fall-guys-15078933.png?v275"
+    },
+    {
+      "id": "72",
+      "nama_skin": "Fall Guys Sports",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/25/fall-guy-15355217.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/25/fall-guy-15355217.png?v275"
+    },
+    {
+      "id": "73",
+      "nama_skin": "Fall Guys Mr.Beast",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/22/fall-guy-character-with-mr-beast-merch-on-----15330823.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/22/fall-guy-character-with-mr-beast-merch-on-----15330823.png?v275"
+    },
+    {
+      "id": "74",
+      "nama_skin": "Fall Guys Gamer",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/22/famous-games-in-a-skin-15329422.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/22/famous-games-in-a-skin-15329422.png?v275"
+    },
+    {
+      "id": "75",
+      "nama_skin": "Fall Guys Sporty",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/10/fall-guy-work-out-suit-15250200.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/10/fall-guy-work-out-suit-15250200.png?v275"
+    },
+    {
+      "id": "78",
+      "nama_skin": "Thanos v1",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/02/thanos-15400473.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/02/thanos-15400473.png?v275"
+    },
+    {
+      "id": "79",
+      "nama_skin": "Falcon",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/01/falcon-15399947.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/01/falcon-15399947.png?v275"
+    },
+    {
+      "id": "80",
+      "nama_skin": "Venom Eddie",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/01/venom---eddie-brock-15394373.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/01/venom---eddie-brock-15394373.png?v275"
+    },
+    {
+      "id": "81",
+      "nama_skin": "Green Goblin",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/green-goblin-unmasked-15390676.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/green-goblin-unmasked-15390676.png?v275"
+    },
+    {
+      "id": "82",
+      "nama_skin": "Storm",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/29/storm-15385029.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/29/storm-15385029.png?v275"
+    },
+    {
+      "id": "83",
+      "nama_skin": "Stan Lee",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/stan-lee-15385859.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/stan-lee-15385859.png?v275"
+    },
+    {
+      "id": "84",
+      "nama_skin": "Aquaman",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/aquaman-15386018.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/aquaman-15386018.png?v275"
+    },
+    {
+      "id": "85",
+      "nama_skin": "Thanos",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/29/thanos-15384992.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/29/thanos-15384992.png?v275"
+    },
+    {
+      "id": "86",
+      "nama_skin": "Captain America",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/21/capitn-amrica-15328771.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/21/capitn-amrica-15328771.png?v275"
+    },
+    {
+      "id": "87",
+      "nama_skin": "Shield Agent",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/29/superintendente-conway-con-traje-15382669.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/29/superintendente-conway-con-traje-15382669.png?v275"
+    },
+    {
+      "id": "88",
+      "nama_skin": "Black Widow",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/28/black-widow-natasha-romanof-15373335.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/28/black-widow-natasha-romanof-15373335.png?v275"
+    },
+    {
+      "id": "89",
+      "nama_skin": "Star Lord",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/24/star-lord--comics--15346213.png?v275,",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/24/star-lord--comics--15346213.png?v275"
+    },
+    {
+      "id": "90",
+      "nama_skin": "Captain Marvel",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/24/captain-marvel-15349898.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/24/captain-marvel-15349898.png?v275"
+    },
+    {
+      "id": "91",
+      "nama_skin": "Hawk Eye",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/18/hawkeye-kurczak-15303667.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/18/hawkeye-kurczak-15303667.png?v275"
+    },
+    {
+      "id": "92",
+      "nama_skin": "Spiderman Venom",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/16/spider-man-venom-one-of-my-first-skins-15292439.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/16/spider-man-venom-one-of-my-first-skins-15292439.png?v275"
+    },
+    {
+      "id": "93",
+      "nama_skin": "Thor",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/15/thor-credit-to-malbertha2019-15285673.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/15/thor-credit-to-malbertha2019-15285673.png?v275"
+    },
+    {
+      "id": "94",
+      "nama_skin": "Doctor Strange",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/15/doctor-strange-15285108.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/15/doctor-strange-15285108.png?v275"
+    },
+    {
+      "id": "95",
+      "nama_skin": "Mr. Fantastic",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/14/mr--fantastic--reed-richrds--15275951.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/14/mr--fantastic--reed-richrds--15275951.png?v275"
+    },
+    {
+      "id": "96",
+      "nama_skin": "Cyclops",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/13/cyclops-marvel-15267457.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/13/cyclops-marvel-15267457.png?v275"
+    },
+    {
+      "id": "97",
+      "nama_skin": "Bruce Banner",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/12/bruce-banner--videojuego-marvel-avengers--15264342.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/12/bruce-banner--videojuego-marvel-avengers--15264342.png?v275"
+    },
+    {
+      "id": "98",
+      "nama_skin": "Duck Nasa",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/01/duck-but-its-lgbt-nasa-rights-15399153.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/01/duck-but-its-lgbt-nasa-rights-15399153.png?v275"
+    },
+    {
+      "id": "99",
+      "nama_skin": "Ruth Karmaland",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/03/ruth-karmaland-15202796.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/03/ruth-karmaland-15202796.png?v275"
+    },
+    {
+      "id": "100",
+      "nama_skin": "Kristina Karmaland",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/03/kristina-karmaland--skin-original-en-la-descripcion--15204721.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/03/kristina-karmaland--skin-original-en-la-descripcion--15204721.png?v275"
+    },
+    {
+      "id": "101",
+      "nama_skin": "Rubius Karmaland",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/14/rubius-karmaland-traje-whatch-dogs-15276928.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/14/rubius-karmaland-traje-whatch-dogs-15276928.png?v275"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Cat Plush",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/wp-content/addon/catplus.png"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg"
+    }
+  ]
+}
