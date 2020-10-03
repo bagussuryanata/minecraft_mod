@@ -86,7 +86,7 @@
     },
     {
       "id":11,
-      "nama_skin":"One Pouch Man",
+      "nama_skin":"One Punch Man",
       "skin_url":"https://aliendro.id/wp-content/skin/one.png",
       "view_skin":"https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
     },
@@ -617,6 +617,96 @@
       "nama_skin": "Rubius Karmaland",
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/14/rubius-karmaland-traje-whatch-dogs-15276928.png?v275",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/14/rubius-karmaland-traje-whatch-dogs-15276928.png?v275"
+    },
+    {
+      "id": "102",
+      "nama_skin": "Camouflage Derpy",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/02/camouflage-derpy-15405293.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/02/camouflage-derpy-15405293.png?v275"
+    },
+    {
+      "id": "103",
+      "nama_skin": "Blonde Mage Male",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/blonde-male-mage-15392574.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/blonde-male-mage-15392574.png?v275"
+    },
+    {
+      "id": "104",
+      "nama_skin": "Camouflage Skeleton Classic",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/skeleton-with-camouflage-classic-15388586.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/skeleton-with-camouflage-classic-15388586.png?v275"
+    },
+    {
+      "id": "105",
+      "nama_skin": "Mage Male",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/30/male-mage-2-15392517.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/30/male-mage-2-15392517.png?v275"
+    },
+    {
+      "id": "106",
+      "nama_skin": "Lava Guy",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/29/lava-guy-15378296.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/29/lava-guy-15378296.png?v275"
+    },
+    {
+      "id": "107",
+      "nama_skin": "Japanese Soldier V3",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/27/japanese-soldier-v3-15365099.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/27/japanese-soldier-v3-15365099.png?v275"
+    },
+    {
+      "id": "108",
+      "nama_skin": "Tommynit Pogtopia",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/22/tommyinnit-pogtopia-15334800.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/22/tommyinnit-pogtopia-15334800.png?v275"
+    },
+    {
+      "id": "109",
+      "nama_skin": "Camo Adidas Boys",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/21/camo-adidas-boy-15324109.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/21/camo-adidas-boy-15324109.png?v275"
+    },
+    {
+      "id": "110",
+      "nama_skin": "Camo Hoodie",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/13/camo-hoodie-15268598.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/13/camo-hoodie-15268598.png?v275"
+    },
+    {
+      "id": "111",
+      "nama_skin": "Camo Gamer Hoodie",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/10/camouflage-hoodie-gamer-15247711.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/10/camouflage-hoodie-gamer-15247711.png?v275"
+    },
+    {
+      "id": "112",
+      "nama_skin": "Dessert Soldier",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/28/desert-themed-soldier-15162753.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/28/desert-themed-soldier-15162753.png?v275"
+    },
+    {
+      "id": "113",
+      "nama_skin": "Air force OCP",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/21/air-force-ocp-15110472.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/21/air-force-ocp-15110472.png?v275"
+    },
+    {
+      "id": "114",
+      "nama_skin": "Petalscale Dragon",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/18/petalscale-dragon-15086730.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/18/petalscale-dragon-15086730.png?v275"
+    },
+    {
+      "id": "115",
+      "nama_skin": "Swat Camo Tech Suit",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/16/caliber-9-swat-camo-techno-suit-soldier-15070757.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/16/caliber-9-swat-camo-techno-suit-soldier-15070757.png?v275"
+    },
+    {
+      "id": "116",
+      "nama_skin": "Pokemon Trainer Camo",
+      "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/08/08/pokemon-camouflage-trainer-15007256.png?v275",
+      "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/08/08/pokemon-camouflage-trainer-15007256.png?v275"
     }
   ],
   "Addons":
