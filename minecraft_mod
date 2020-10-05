@@ -732,6 +732,7 @@
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/03/among-us---white-15408909.png?v275",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/03/among-us---white-15408909.png?v275"
     },
+
     {
       "id": "121",
       "nama_skin": "Among Us Purple v1",
@@ -792,6 +793,8 @@
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/09/24/groovy-hippie-0-15349625.png?v277",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/09/24/groovy-hippie-0-15349625.png?v277"
     },
+
+
     {
       "id": "131",
       "nama_skin": "Anti Radical",
@@ -836,13 +839,13 @@
     },
     {
       "id": "138",
-      "nama_skins": "Herobrine",
+      "nama_skin": "Herobrine",
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/03/herobrine-15413848.png?v277",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/03/herobrine-15413848.png?v277"
     },
     {
       "id": "139",
-      "nama_skins": "Chat Time 6.8",
+      "nama_skin": "Chat Time 6.8",
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/03/chat-time-6-8-15413298.png?v277",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/03/chat-time-6-8-15413298.png?v277"
     },
@@ -852,6 +855,8 @@
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/03/r-e-s-h-a-d-e-15415136.png?v277",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/03/r-e-s-h-a-d-e-15415136.png?v277"
     },
+
+
     {
       "id": "141",
       "nama_skin": "So Cool",
@@ -968,7 +973,7 @@
     },
     {
       "id": "160",
-      "nama_skin": "O O F",
+      "nama_skin": "OOF",
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/04/oof-15420082.png?v277",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/04/oof-15420082.png?v277"
     },
@@ -992,7 +997,7 @@
     },
     {
       "id": "164",
-      "nama_skin": "S p i d ey",
+      "nama_skin": "Spidey",
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/03/s-p-i-d-e-y--b-w--15413019.png?v277",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/03/s-p-i-d-e-y--b-w--15413019.png?v277"
     },
@@ -1010,10 +1015,11 @@
     },
     {
       "id": "167",
-      "nama_skin": "E m i n e m",
+      "nama_skin": "Eminem",
       "skin_url": "https://www.minecraftskins.com/uploads/skins/2020/10/04/e-m-i-n-e-m-15420999.png?v277",
       "view_skin": "https://www.minecraftskins.com/uploads/preview-skins/2020/10/04/e-m-i-n-e-m-15420999.png?v277"
     }
+
   ],
   "Addons":
   [
